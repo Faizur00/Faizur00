@@ -1,5 +1,5 @@
 <h1 align="center">I'm Ahmad Faizur Rahman</h1>
-<h5 align="left">A CS Student that aspire to be AI/ML research engineer with a passion for turning mathematical concepts into practical code while also love to tinkering with Linux systems</h5>
+<h4 align="left">A CS Student, aspiring to be AI/ML research engineer with a passion for turning mathematical concepts into practical code while also love to tinkering with Linux systems</h4>
 
 &nbsp;
 &nbsp;
